@@ -1,0 +1,4 @@
+br\com\gustavo\luan\bean\loginBean.class
+br\com\gustavo\luan\bean\cadastroBean.class
+br\com\gustavo\luan\dao\UsuarioDAO.class
+br\com\gustavo\luan\domain\Usuario.class
